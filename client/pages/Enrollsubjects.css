@@ -1,0 +1,60 @@
+body{
+    background: url('Home_image.jpg') no -repeat center center /cover;
+}
+.subjects{
+    margin-top: 100px;
+    text-align: center;
+    display: block;
+    margin-left: 450px;
+    margin-right: 450px;
+    border: 1px solid black;
+}
+
+
+
+.form-label1{
+    display: block;
+}
+.form-label2{
+    display: block;
+}
+.form-label3{
+    display: block;
+}
+.form-label4{
+    display: block;
+}
+.form-label5{
+    display: block;
+}
+
+.mb-1{
+    margin-bottom: 25px;
+    margin-top: 50px;
+    display: block;
+}
+.mb-2{
+    margin-top: 25px;
+}
+.mb-3{
+    margin-top:25px ;
+    margin-bottom:10px ;
+}
+.mb-4{
+    margin-top:25px ;
+    margin-bottom:10px ;
+}
+.mb-5{
+    margin-top:25px ;
+    margin-bottom:10px ;
+}
+.subjects form{
+    background: white;
+    width:100%;
+    height: 100%;
+    border-radius: 4px;
+    box-shadow : 0 8px 16px rgba(0,0,0,.3);
+}
+.footer{
+    margin-top: 50px;
+}

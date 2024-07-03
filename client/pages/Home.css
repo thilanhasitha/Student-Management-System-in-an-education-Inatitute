@@ -1,0 +1,22 @@
+body{
+
+}
+.image-section{
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+.image-location{
+    opacity: 0.3;
+    height: 90vh;
+}
+
+.image-section img{
+    width: 100vw;
+    height: 100vh;
+}
+.future{
+    text-align: center;
+    text-decoration: aqua;
+    color: deeppink;
+}

@@ -1,0 +1,41 @@
+body{
+
+}
+.image-section1{
+    margin-left: 200px;
+    margin-right: 100px;
+    opacity: 0.8;
+}
+
+.image-section1 img{
+    width: 80vw;
+    height: 75vh;
+}
+.AboutUs{
+    textColor:'#D20062'
+}
+.details{
+    display: block;
+    text-align: center;
+}
+.address{
+    display: flex;
+    text-align: center;
+    
+}
+.phone{
+    display: flex;
+}
+.email{
+    display: flex;
+}
+.story{
+    text-align: center;
+}
+.paragraph1{
+    text-align: center;
+    font-family: 'italic';
+    text-size-adjust: 25px;
+    color: blue;
+}
+

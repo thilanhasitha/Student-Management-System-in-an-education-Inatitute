@@ -1,0 +1,17 @@
+body{
+
+}
+.image-payment{
+    width: auto;
+    height: auto;
+    opacity: 0.4;
+}
+.image-payment img{
+    width:100vw;
+    height:100vh;
+}
+.upload{
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+}
